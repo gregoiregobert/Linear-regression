@@ -96,9 +96,7 @@ The project consists of **two main programs**:
 
 ## 📊 Demo
 
-![Regression Demo](assets/line_reg.gif)  
-> Replace assets/demo.gif with your actual GIF file.
-
+![Regression Demo](assets/line_reg.gif)   ![](assets/lin_reg_curve.png)
 ---
 
 ## ⚙ Requirements
