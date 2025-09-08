@@ -41,12 +41,10 @@ The project consists of **two main programs**:
     Where m = number of data points.  
     theta0 and theta1 are updated simultaneously.
     
-- Training procedure:
+- Training procedure:  
       Initialize theta0 and theta1 to 0
       Loop over the dataset and update parameters using the formulas above
       Save the final theta0 and theta1
-
-
 ---
 
 ## 🎁 Bonus Features
