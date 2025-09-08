@@ -5,8 +5,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/gregoiregobert/Linear-regression?style=social)](https://github.com/gregoiregobert/Linear-regression/stargazers)  
 ![Demo GIF](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)  
 
----
-
 ## 📖 Project Description
 This project implements **linear regression from scratch** using a single feature: the **mileage of a car**.  
 The goal is to predict a car's price based on its mileage.
