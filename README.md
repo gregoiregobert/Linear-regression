@@ -96,7 +96,8 @@ The project consists of **two main programs**:
 
 ## 📊 Demo
 
-![Regression Demo](assets/line_reg.gif)   ![](assets/lin_reg_curve.png)
+![Regression Demo](assets/line_reg.gif)  
+<img src="assets/lin_reg_curve.png" width="600"/>
 ---
 
 ## ⚙ Requirements
