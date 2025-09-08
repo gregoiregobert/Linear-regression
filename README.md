@@ -1,9 +1,6 @@
 # Linear Regression Project 🚗📈
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/gregoiregobert/Linear-regression?style=social)](https://github.com/gregoiregobert/Linear-regression/stargazers)  
-![Demo GIF](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)  
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/) [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/gregoiregobert/Linear-regression?style=social)](https://github.com/gregoiregobert/Linear-regression/stargazers)  
 
 ## 📖 Project Description
 This project implements **linear regression from scratch** using a single feature: the **mileage of a car**.  
