@@ -1,12 +1,6 @@
 # Linear Regression Project 🚗📈
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/gregoiregobert/Linear-regression?style=social)](https://github.com/gregoiregobert/Linear-regression/stargazers)  
-![Demo GIF](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)
-
-
----
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/) [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/gregoiregobert/Linear-regression?style=social)](https://github.com/gregoiregobert/Linear-regression/stargazers)  
 
 ## 📖 Project Description
 This project implements **linear regression from scratch** using a single feature: the **mileage of a car**.  
@@ -47,12 +41,10 @@ The project consists of **two main programs**:
     Where m = number of data points.  
     theta0 and theta1 are updated simultaneously.
     
-- Training procedure:
+- Training procedure:  
       Initialize theta0 and theta1 to 0
       Loop over the dataset and update parameters using the formulas above
       Save the final theta0 and theta1
-
-
 ---
 
 ## 🎁 Bonus Features
@@ -104,7 +96,7 @@ The project consists of **two main programs**:
 
 ## 📊 Demo
 
-![Regression Demo](assets/demo.gif)  
+![Regression Demo](assets/line_reg.gif)  
 > Replace assets/demo.gif with your actual GIF file.
 
 ---
